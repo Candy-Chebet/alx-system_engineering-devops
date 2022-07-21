@@ -1,1 +1,0 @@
-my shell permissions readme
